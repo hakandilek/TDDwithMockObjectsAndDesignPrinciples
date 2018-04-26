@@ -8,5 +8,5 @@ jdk:
   
 script:
   - cd TDDMicroExercises/Java/TirePressureMonitoringSystem
-  - mvn clean deploy
+  - mvn clean package
 
